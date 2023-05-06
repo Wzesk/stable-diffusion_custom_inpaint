@@ -1,0 +1,1 @@
+For this use case, you should need to specify a path/to/input_folder/ that contains image paired with their mask (e.g., image1.png - image1_mask.png) and a path/to/output_folder/ where the generated images will be saved.
